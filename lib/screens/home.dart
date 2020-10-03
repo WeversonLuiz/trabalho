@@ -26,15 +26,15 @@ class Home extends StatelessWidget {
                           decoration: const BoxDecoration(
                             gradient: LinearGradient(
                               colors: <Color>[
-                                Color(0XFF0D47A1),
-                                Color(0XFF1976D2),
-                                Color(0XFF42A5F5),
+                                Color(0XFFCFD8DC),
+                                Color(0XFF90A4AE),
+                                Color(0XFF78909C),
                               ],
                             ),
                           ),
                           child: Center(
                             child: Text(
-                              "1001 - Extremamente Básico",
+                              "Extremamente Básico - 1001",
                               textAlign: TextAlign.left,
                               style: TextStyle(
                                 fontSize: 25.0,
@@ -59,15 +59,15 @@ class Home extends StatelessWidget {
                           decoration: const BoxDecoration(
                             gradient: LinearGradient(
                               colors: <Color>[
-                                Color(0XFF0D47A1),
-                                Color(0XFF1976D2),
-                                Color(0XFF42A5F5),
+                                Color(0XFFCFD8DC),
+                                Color(0XFF90A4AE),
+                                Color(0XFF78909C),
                               ],
                             ),
                           ),
                           child: Center(
                             child: Text(
-                              "1009 - Salário com Bônus",
+                              "Salário com Bônus - 1009",
                               textAlign: TextAlign.left,
                               style: TextStyle(
                                 fontSize: 25.0,
@@ -92,15 +92,15 @@ class Home extends StatelessWidget {
                           decoration: const BoxDecoration(
                             gradient: LinearGradient(
                               colors: <Color>[
-                                Color(0XFF0D47A1),
-                                Color(0XFF1976D2),
-                                Color(0XFF42A5F5),
+                                Color(0XFFCFD8DC),
+                                Color(0XFF90A4AE),
+                                Color(0XFF78909C),
                               ],
                             ),
                           ),
                           child: Center(
                             child: Text(
-                              "1018 - Cédulas",
+                              "Cédulas - 1018",
                               textAlign: TextAlign.left,
                               style: TextStyle(
                                 fontSize: 25.0,
@@ -125,15 +125,15 @@ class Home extends StatelessWidget {
                           decoration: const BoxDecoration(
                             gradient: LinearGradient(
                               colors: <Color>[
-                                Color(0XFF0D47A1),
-                                Color(0XFF1976D2),
-                                Color(0XFF42A5F5),
+                                Color(0XFFCFD8DC),
+                                Color(0XFF90A4AE),
+                                Color(0XFF78909C),
                               ],
                             ),
                           ),
                           child: Center(
                             child: Text(
-                              "2344 - Notas da Prova",
+                              "Notas da Prova - 2344",
                               textAlign: TextAlign.left,
                               style: TextStyle(
                                 fontSize: 25.0,
@@ -158,15 +158,15 @@ class Home extends StatelessWidget {
                           decoration: const BoxDecoration(
                             gradient: LinearGradient(
                               colors: <Color>[
-                                Color(0XFF0D47A1),
-                                Color(0XFF1976D2),
-                                Color(0XFF42A5F5),
+                                Color(0XFFCFD8DC),
+                                Color(0XFF90A4AE),
+                                Color(0XFF78909C),
                               ],
                             ),
                           ),
                           child: Center(
                             child: Text(
-                              "3040 - A Árvore de Natal",
+                              "A Árvore de Natal - 3040",
                               textAlign: TextAlign.left,
                               style: TextStyle(
                                 fontSize: 25.0,
