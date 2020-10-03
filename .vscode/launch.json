@@ -10,7 +10,7 @@
             "request": "launch",
             "stopOnEntry": true,
             //"jdkPath": "${env:JAVA_HOME}/bin",
-            "jdkPath": "/home/eduardo/jdk-11.0.8",
+            "jdkPath": "/home/weverson/jdk-11.0.8",
             "cwd": "${fileDirname}",
             "startupClass": "${fileBasenameNoExtension}",
             "classpath": [
@@ -23,7 +23,7 @@
             "type": "java",
             "request": "launch",
             "stopOnEntry": true,
-            "jdkPath": "/home/eduardo/jdk-11.0.8",
+            "jdkPath": "/home/weverson/jdk-11.0.8",
             "cwd": "${fileDirname}",
             "startupClass": "${fileBasenameNoExtension}",
             "classpath": [

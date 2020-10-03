@@ -1,4 +1,4 @@
-package br.com.eduardo.trabalho;
+package br.com.weverson.trabalho;
 
 import io.flutter.embedding.android.FlutterActivity;
 
